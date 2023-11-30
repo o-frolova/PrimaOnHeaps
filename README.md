@@ -11,7 +11,7 @@ The repository contains three implementations of the algorithm:
 
 <b> Amortized complexity of algorithms: </b>
 
-|  Realization | Сomplexity  |   
+|  Implementation | Сomplexity  |   
 |:--------------:|:-------------:|
 | Naive implementation|<strong>`O(V² + E)`</strong>|   
 | With 2-heap |  <strong>`O(E∙logV)`</strong> |  
